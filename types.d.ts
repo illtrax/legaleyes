@@ -1,0 +1,5 @@
+declare module 'intl'
+declare module 'invariant'
+declare module 'lodash'
+declare module 'react-intl'
+declare module 'google-maps-react'

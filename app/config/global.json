@@ -1,0 +1,130 @@
+{
+  "bottomNav": {
+    "tabs": [
+      {
+        "title": "Calculator",
+        "icon": "tune",
+        "url": "/calculator"
+      },
+      {
+        "title": "Laws",
+        "icon": "account_balance",
+        "url": "/laws"
+      },
+      {
+        "title": "Map",
+        "icon": "location_on",
+        "url": "/map"
+      }
+    ]
+  },
+  "sideBar": {
+    "settings": [
+      {
+        "title": "Purge",
+        "icon": "delete",
+        "url": ""
+      }
+    ],
+    "navigation": [
+      {
+        "title": "Home",
+        "icon": "home",
+        "url": "/"
+      },
+      {
+        "title": "Calculator",
+        "icon": "tune",
+        "url": "/calculator"
+      },
+      {
+        "title": "Laws",
+        "icon": "account_balance",
+        "url": "/laws"
+      },
+      {
+        "title": "Map",
+        "icon": "location_on",
+        "url": "/map"
+      }
+    ]
+  },
+  "laws": {
+    "canadianFederal": {
+      "name": "Canadian Federal",
+      "icon": "ca-fed",
+      "url": "/ca-federal",
+      "lawsUrl": ""
+    },
+    "alberta": {
+      "name": "Alberta",
+      "icon": "ca-al",
+      "url": "/ca-alberta",
+      "lawsUrl": "https://www.alberta.ca/cannabis-legalization.aspx"
+    },
+    "britishColumbia": {
+      "name": "British Columbia",
+      "icon": "ca-bc",
+      "url": "/ca-british-columbia",
+      "lawsUrl":
+        "https://www2.gov.bc.ca/gov/content/safety/public-safety/cannabis"
+    },
+    "manitoba": {
+      "name": "Manitoba",
+      "icon": "ca-ma",
+      "url": "/ca-manitoba",
+      "lawsUrl": "http://lgamanitoba.ca/cannabis-and-the-lga/"
+    },
+    "newBrunswick": {
+      "name": "New Brunswick",
+      "icon": "ca-nb",
+      "url": "/ca-new-brunswick",
+      "lawsUrl": "http://www2.gnb.ca/content/gnb/en.html"
+    },
+    "newfoundland": {
+      "name": "Newfoundland and Labrador",
+      "icon": "ca-nfld",
+      "url": "/ca-newfoundland-and-labrador",
+      "lawsUrl": "https://www.gov.nl.ca/"
+    },
+    "northWestTerritories": {
+      "name": "North West Territories",
+      "icon": "ca-nt",
+      "url": "/ca-north-west-territories",
+      "lawsUrl": "https://www.eia.gov.nt.ca/en/cannabis-legislation"
+    },
+    "novaScotia": {
+      "name": "Nova Scotia",
+      "icon": "ca-ns",
+      "url": "/ca-nova-scotia",
+      "lawsUrl": "https://novascotia.ca/cannabis/"
+    },
+    "priceEdwardIsland": {
+      "name": "Price Edward Island",
+      "icon": "ca-pei",
+      "url": "/ca-prince-edward-island",
+      "lawsUrl":
+        "https://www.princeedwardisland.ca/en/information/cannabis-policy-legislation-and-regulation"
+    },
+    "quebec": {
+      "name": "Quebec",
+      "icon": "ca-qu",
+      "url": "/ca-quebec",
+      "lawsUrl": "https://encadrementcannabis.gouv.qc.ca/"
+    },
+    "saskatchewan": {
+      "name": "Saskatchewan",
+      "icon": "ca-sk",
+      "url": "/ca-saskatchewan",
+      "lawsUrl":
+        "https://www.saskatchewan.ca/government/cannabis-in-saskatchewan"
+    },
+
+    "yukon": {
+      "name": "Yukon",
+      "icon": "ca-yn",
+      "url": "/ca-yukon",
+      "lawsUrl": "http://www.hss.gov.yk.ca/cannabis/index.php"
+    }
+  }
+}
